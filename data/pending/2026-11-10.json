@@ -1,0 +1,396 @@
+{
+  "date": "2026-11-10",
+  "words": [
+    {
+      "id": "w_0401",
+      "surface": "いってらっしゃい",
+      "reading": "いってらっしゃい",
+      "gloss": "路上小心",
+      "pos": "表現",
+      "level": "N5",
+      "freq_rank": 401,
+      "romaji_override": null,
+      "example": {
+        "ja": "母がいってらっしゃいと言いました。",
+        "zh": "媽媽說了路上小心。",
+        "tokens": [
+          {
+            "surface": "母",
+            "reading": "はは",
+            "gloss": "媽媽"
+          },
+          {
+            "surface": "が",
+            "reading": "が",
+            "gloss": "（主語）",
+            "particle": true
+          },
+          {
+            "surface": "いってらっしゃい",
+            "reading": "いってらっしゃい",
+            "gloss": "路上小心"
+          },
+          {
+            "surface": "と",
+            "reading": "と",
+            "gloss": "（引述）",
+            "particle": true
+          },
+          {
+            "surface": "言いました",
+            "reading": "いいました",
+            "gloss": "說了"
+          }
+        ]
+      },
+      "collocations": [
+        "いってらっしゃいと言います",
+        "いってきます、いってらっしゃい"
+      ],
+      "confusable_with": [],
+      "note": "目送家人或同事外出時所說的寒暄語，中文常譯為「路上小心」或「慢走」。外出者通常先說「いってきます」（我出門了），留下來的人則回覆「いってらっしゃい」。",
+      "pitch": null,
+      "audio": null,
+      "source": "n5-freq",
+      "verified": true
+    },
+    {
+      "id": "w_0402",
+      "surface": "ただいま",
+      "reading": "ただいま",
+      "gloss": "我回來了",
+      "pos": "表現",
+      "level": "N5",
+      "freq_rank": 402,
+      "romaji_override": null,
+      "example": {
+        "ja": "ただいま帰りました。",
+        "zh": "我回來了。",
+        "tokens": [
+          {
+            "surface": "ただいま",
+            "reading": "ただいま",
+            "gloss": "我回來了"
+          },
+          {
+            "surface": "帰りました",
+            "reading": "かえりました",
+            "gloss": "回來了"
+          }
+        ]
+      },
+      "collocations": [
+        "ただいま帰りました",
+        "ただいまと言います"
+      ],
+      "confusable_with": [],
+      "note": "回家進門時使用的寒暄語，意思是「我回來了」。家裡的人通常會以「おかえりなさい（你回來啦）」來回應。",
+      "pitch": null,
+      "audio": null,
+      "source": "n5-freq",
+      "verified": true
+    },
+    {
+      "id": "w_0403",
+      "surface": "おかえりなさい",
+      "reading": "おかえりなさい",
+      "gloss": "歡迎回來",
+      "pos": "表現",
+      "level": "N5",
+      "freq_rank": 403,
+      "romaji_override": null,
+      "example": {
+        "ja": "おかえりなさい。",
+        "zh": "歡迎回來。",
+        "tokens": [
+          {
+            "surface": "おかえりなさい",
+            "reading": "おかえりなさい",
+            "gloss": "歡迎回來"
+          }
+        ]
+      },
+      "collocations": [
+        "おかえり",
+        "おかえりなさい"
+      ],
+      "confusable_with": [],
+      "note": "家人或同住者回到家時，留在家裡的人所說的寒暄語。通常用來回應對方的「ただいま」（我回來了）。對家人或熟人也可簡稱「おかえり」。",
+      "pitch": null,
+      "audio": null,
+      "source": "n5-freq",
+      "verified": true
+    },
+    {
+      "id": "w_0404",
+      "surface": "おやすみなさい",
+      "reading": "おやすみなさい",
+      "gloss": "晚安（睡前）",
+      "pos": "表現",
+      "level": "N5",
+      "freq_rank": 404,
+      "romaji_override": null,
+      "example": {
+        "ja": "それではおやすみなさい。",
+        "zh": "那麼，晚安。",
+        "tokens": [
+          {
+            "surface": "それでは",
+            "reading": "それでは",
+            "gloss": "那麼"
+          },
+          {
+            "surface": "おやすみなさい",
+            "reading": "おやすみなさい",
+            "gloss": "晚安"
+          }
+        ]
+      },
+      "collocations": [
+        "おやすみなさいと言います",
+        "それではおやすみなさい"
+      ],
+      "confusable_with": [],
+      "note": "晚上就寢前或夜間告別時使用的寒暄語；對平輩或晚輩可簡稱「おやすみ」。",
+      "pitch": null,
+      "audio": null,
+      "source": "n5-freq",
+      "verified": true
+    },
+    {
+      "id": "w_0405",
+      "surface": "はじめまして",
+      "reading": "はじめまして",
+      "gloss": "初次見面",
+      "pos": "表現",
+      "level": "N5",
+      "freq_rank": 405,
+      "romaji_override": null,
+      "example": {
+        "ja": "はじめまして。",
+        "zh": "初次見面。",
+        "tokens": [
+          {
+            "surface": "はじめまして",
+            "reading": "はじめまして",
+            "gloss": "初次見面"
+          }
+        ]
+      },
+      "collocations": [
+        "はじめまして、よろしくお願いします"
+      ],
+      "confusable_with": [],
+      "note": "初次與人見面時專用的寒暄語，通常在自我介紹一開頭使用，後續常搭配「よろしくお願いします」。",
+      "pitch": null,
+      "audio": null,
+      "source": "n5-freq",
+      "verified": true
+    },
+    {
+      "id": "w_0406",
+      "surface": "わかりました",
+      "reading": "わかりました",
+      "gloss": "我明白了",
+      "pos": "表現",
+      "level": "N5",
+      "freq_rank": 406,
+      "romaji_override": null,
+      "example": {
+        "ja": "はい、わかりました。",
+        "zh": "好的，我明白了。",
+        "tokens": [
+          {
+            "surface": "はい",
+            "reading": "はい",
+            "gloss": "好的"
+          },
+          {
+            "surface": "わかりました",
+            "reading": "わかりました",
+            "gloss": "明白了"
+          }
+        ]
+      },
+      "collocations": [
+        "はい、わかりました",
+        "よくわかりました"
+      ],
+      "confusable_with": [],
+      "note": "常用於回應對方的指示、說明或要求，表示「理解了」或「知道了」。",
+      "pitch": null,
+      "audio": null,
+      "source": "n5-freq",
+      "verified": true
+    },
+    {
+      "id": "w_0407",
+      "surface": "冷たい",
+      "reading": "つめたい",
+      "gloss": "冰的／冷的",
+      "pos": "い形容詞",
+      "level": "N5",
+      "freq_rank": 407,
+      "romaji_override": null,
+      "example": {
+        "ja": "手が冷たいです。",
+        "zh": "手很冰冷。",
+        "tokens": [
+          {
+            "surface": "手",
+            "reading": "て",
+            "gloss": "手"
+          },
+          {
+            "surface": "が",
+            "reading": "が",
+            "gloss": "（主語）",
+            "particle": true
+          },
+          {
+            "surface": "冷たい",
+            "reading": "つめたい",
+            "gloss": "冰冷"
+          },
+          {
+            "surface": "です",
+            "reading": "です",
+            "gloss": "是"
+          }
+        ]
+      },
+      "collocations": [
+        "冷たい水",
+        "冷たい風"
+      ],
+      "confusable_with": [],
+      "note": "「冷たい」用於描寫物體觸感、飲食或身體部位的「冰涼、冰冷」；天氣或氣溫的「寒冷」則使用「寒い」。",
+      "pitch": null,
+      "audio": null,
+      "source": "n5-freq",
+      "verified": true
+    },
+    {
+      "id": "w_0408",
+      "surface": "撮る",
+      "reading": "とる",
+      "gloss": "拍（照）",
+      "pos": "動詞",
+      "level": "N5",
+      "freq_rank": 408,
+      "romaji_override": null,
+      "example": {
+        "ja": "カメラで家族の写真を撮ります。",
+        "zh": "用相機拍家人的照片。",
+        "tokens": [
+          {
+            "surface": "カメラ",
+            "reading": "かめら",
+            "gloss": "相機"
+          },
+          {
+            "surface": "で",
+            "reading": "で",
+            "gloss": "（手段）",
+            "particle": true
+          },
+          {
+            "surface": "家族",
+            "reading": "かぞく",
+            "gloss": "家人"
+          },
+          {
+            "surface": "の",
+            "reading": "の",
+            "gloss": "（的）",
+            "particle": true
+          },
+          {
+            "surface": "写真",
+            "reading": "しゃしん",
+            "gloss": "照片"
+          },
+          {
+            "surface": "を",
+            "reading": "を",
+            "gloss": "（受詞）",
+            "particle": true
+          },
+          {
+            "surface": "撮ります",
+            "reading": "とります",
+            "gloss": "拍"
+          }
+        ]
+      },
+      "collocations": [
+        "写真を撮る",
+        "カメラで撮る"
+      ],
+      "confusable_with": [],
+      "note": "「撮る」在 N5 最常與「写真（しゃしん）」搭配，表示拍照。",
+      "pitch": null,
+      "audio": null,
+      "source": "n5-freq",
+      "verified": true
+    }
+  ],
+  "pipeline": {
+    "enricher": "openrouter",
+    "judge": "openrouter",
+    "generated_at": "2026-11-10T03:05:46.234Z",
+    "judgments": {
+      "w_0401": {
+        "natural": true,
+        "reading_ok": true,
+        "gloss_ok": true,
+        "issues": []
+      },
+      "w_0402": {
+        "natural": true,
+        "reading_ok": true,
+        "gloss_ok": true,
+        "issues": []
+      },
+      "w_0403": {
+        "natural": true,
+        "reading_ok": true,
+        "gloss_ok": true,
+        "issues": []
+      },
+      "w_0404": {
+        "natural": true,
+        "reading_ok": true,
+        "gloss_ok": true,
+        "issues": []
+      },
+      "w_0405": {
+        "natural": true,
+        "reading_ok": true,
+        "gloss_ok": true,
+        "issues": []
+      },
+      "w_0406": {
+        "natural": true,
+        "reading_ok": true,
+        "gloss_ok": true,
+        "issues": []
+      },
+      "w_0407": {
+        "natural": true,
+        "reading_ok": true,
+        "gloss_ok": true,
+        "issues": []
+      },
+      "w_0408": {
+        "natural": true,
+        "reading_ok": true,
+        "gloss_ok": true,
+        "issues": []
+      }
+    },
+    "errors": [],
+    "attempts": {},
+    "skipped": []
+  }
+}
